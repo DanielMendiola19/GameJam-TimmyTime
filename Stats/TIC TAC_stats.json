@@ -1,0 +1,29 @@
+{
+    "stats": [
+        {
+            "levelName": "TIC TAC",
+            "perfect": 765,
+            "great": 84,
+            "fail": 8,
+            "miss": 10,
+            "score": 80700,
+            "maxCombo": 391,
+            "accuracy": 89.05311584472656,
+            "grade": "B",
+            "dateTime": "2025-11-02 11:29:11"
+        },
+        {
+            "levelName": "TIC TAC",
+            "perfect": 765,
+            "great": 85,
+            "fail": 8,
+            "miss": 9,
+            "score": 80750,
+            "maxCombo": 156,
+            "accuracy": 89.28406524658203,
+            "grade": "B",
+            "dateTime": "2025-11-02 14:26:33"
+        }
+    ],
+    "hash": "FC5B6A7093DDE968E680BD69C4E38A89A2BC491FAB530C97866E92C458916ABF"
+}

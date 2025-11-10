@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29df6c01a849b094f81db40e4353ce11, type: 3}
+  m_Name: ExampleBeatMap
+  m_EditorClassIdentifier: 
+  notes:
+  - time: 1
+    lane: 0
+  - time: 2
+    lane: 1
+  - time: 3
+    lane: 2
+  - time: 4
+    lane: 3
+  - time: 5
+    lane: 1
+  - time: 6
+    lane: 3

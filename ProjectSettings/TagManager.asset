@@ -11,6 +11,11 @@ TagManager:
   - DashAbajo
   - Sprint
   - MovimientoNormal
+  - NoteDestroyer
+  - NoteTouch
+  - NoteTouchPerfect
+  - NoteTouchGreat
+  - CreditsEnd
   layers:
   - Default
   - TransparentFX

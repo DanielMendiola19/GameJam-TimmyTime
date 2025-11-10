@@ -1,0 +1,18 @@
+{
+    "stats": [
+        {
+            "levelID": "StoryLevel_001",
+            "levelName": "Wake up in the morning light,",
+            "perfect": 469,
+            "great": 30,
+            "fail": 2,
+            "miss": 2,
+            "score": 48400,
+            "maxCombo": 276,
+            "accuracy": 94.22310638427735,
+            "grade": "A",
+            "dateTime": "2025-11-07 21:02:17"
+        }
+    ],
+    "hash": "60AD19FCDBF5F73375E7DC158D21B223DDD39A7E1F971F0C683C32F125D3A1BB"
+}

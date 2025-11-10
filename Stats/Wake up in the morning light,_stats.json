@@ -1,0 +1,41 @@
+{
+    "stats": [
+        {
+            "levelName": "Wake up in the morning light,",
+            "perfect": 498,
+            "great": 43,
+            "fail": 8,
+            "miss": 10,
+            "score": 51950,
+            "maxCombo": 192,
+            "accuracy": 88.15412139892578,
+            "grade": "B",
+            "dateTime": "2025-11-02 10:35:58"
+        },
+        {
+            "levelName": "Wake up in the morning light,",
+            "perfect": 496,
+            "great": 50,
+            "fail": 4,
+            "miss": 5,
+            "score": 52100,
+            "maxCombo": 223,
+            "accuracy": 90.43321228027344,
+            "grade": "A",
+            "dateTime": "2025-11-02 10:39:01"
+        },
+        {
+            "levelName": "Wake up in the morning light,",
+            "perfect": 459,
+            "great": 41,
+            "fail": 1,
+            "miss": 1,
+            "score": 47950,
+            "maxCombo": 481,
+            "accuracy": 93.47305297851563,
+            "grade": "A",
+            "dateTime": "2025-11-02 11:10:27"
+        }
+    ],
+    "hash": "293355DBE2055BD5EE8418C0ACAB517C3EEA1F621E8C940FC56EA34C0859DE54"
+}

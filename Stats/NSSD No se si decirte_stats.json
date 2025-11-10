@@ -1,0 +1,29 @@
+{
+    "stats": [
+        {
+            "levelName": "NSSD No se si decirte",
+            "perfect": 542,
+            "great": 70,
+            "fail": 7,
+            "miss": 7,
+            "score": 57700,
+            "maxCombo": 139,
+            "accuracy": 87.68000030517578,
+            "grade": "B",
+            "dateTime": "2025-10-31 20:19:23"
+        },
+        {
+            "levelName": "NSSD No se si decirte",
+            "perfect": 540,
+            "great": 76,
+            "fail": 4,
+            "miss": 4,
+            "score": 57800,
+            "maxCombo": 272,
+            "accuracy": 88.8924560546875,
+            "grade": "B",
+            "dateTime": "2025-10-31 20:24:14"
+        }
+    ],
+    "hash": "306343E549B754321DB023208B5B272EFD0BF525D56671D9474243A1B1722F11"
+}

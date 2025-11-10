@@ -1,0 +1,29 @@
+{
+    "stats": [
+        {
+            "levelName": "It s Going Down Now",
+            "perfect": 969,
+            "great": 80,
+            "fail": 8,
+            "miss": 6,
+            "score": 100900,
+            "maxCombo": 303,
+            "accuracy": 92.09039306640625,
+            "grade": "A",
+            "dateTime": "2025-11-02 11:02:43"
+        },
+        {
+            "levelName": "It s Going Down Now",
+            "perfect": 1140,
+            "great": 86,
+            "fail": 15,
+            "miss": 12,
+            "score": 118300,
+            "maxCombo": 351,
+            "accuracy": 90.87860107421875,
+            "grade": "B",
+            "dateTime": "2025-11-02 11:32:46"
+        }
+    ],
+    "hash": "F83387D93DBADC39FEF71B0430187DB4284E679A2654FF08AE56399CE3BC1B73"
+}
